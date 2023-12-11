@@ -1,0 +1,5 @@
+
+PROJECT_NAME=YuQueInstaller
+YuQueInstaller_VERSION_MAJOR=3
+YuQueInstaller_VERSION_MINOR=2
+YuQueInstaller_VERSION_PATCH=2
