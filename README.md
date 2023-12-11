@@ -1,9 +1,9 @@
-# RepoName
+# YuQueInstaller
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/YuQueInstaller
 ```
 
 ## Notes
